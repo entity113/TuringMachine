@@ -23,7 +23,7 @@ Now you can use it from terminal:
 turing-machine "config".csv
 ```
 ## Usage
-Program must be launched with one command line argument which is the configuration file name. Configuration file is simple CSV file that can be opened with any spreadsheet software such as LibreOffice Calc. This file contains:
+Program must be launched with one command line argument which is the configuration file name. Configuration file is simple [CSV](https://wikipedia.org/wiki/Comma-separated_values) file that can be opened with any spreadsheet software such as LibreOffice Calc. This file contains:
 - Initial tape configuration
 - Initial cursor position
 - Alphabet of machine
