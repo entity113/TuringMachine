@@ -12,7 +12,7 @@ cmake -B build -DCMAKE_BUILD_TYPE="Build type" -G "Generator name"
 - RelWithDebInfo
 - MinSizeRel
 
-"Generator name" is generator you would like to use.
+"Generator name" is [generator](https://cmake.org/cmake/help/latest/manual/cmake-generators.7.html) you would like to use.
 
 Build and install project:
 ```shell  
